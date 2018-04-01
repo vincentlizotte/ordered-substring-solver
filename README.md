@@ -9,7 +9,7 @@ The strings HELLODARKNESS, DARKNESSHELLO and HEDAKLLKNEOSS all contain the subst
  - All letters must be used, thus all strings have the same length
 
 # Usage
-Pass the list of strings to process, with optional --benchmark flag
+Pass the list of strings to process, with optional --benchmark flag  
 *solver.py HELLODARKNESS DARKNESSHELLO HEDAKLLKNEOSS --benchmark*
 
 # Possible improvements
