@@ -57,10 +57,10 @@ if __name__ == "__main__":
     strings = args.strings_to_process
     if len(strings) == 0:
         strings = [
-        "hellogoodbye",
-        "helgoloodbye",
-        "goheodlbyleo",
-        "gheolodlbyoe",
+        "hellodarkness",
+        "heldalorkness",
+        "daherklnelsso",
+        "dhealrklnesos",
     ]
 
     print("Finding common ordered substrings for strings: {}".format(', '.join(strings)))
